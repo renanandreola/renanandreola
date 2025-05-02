@@ -6,7 +6,7 @@ Welcome to my profile! I'm a passionate developer focused on building smart and 
 
 ## 🚀 **About Me**
 - 🎓 **Sênior Software Engineer** experienced in **NodeJs, ReactJs, MongoDB, KnockoutJs, Docker, NestJS, Prisma** and expert in **Oracle CX Commerce**, and more.
-- 💼 Creator of robust systems like [Dema Automotive](https://dema-automotive-95e44bfb4ebf.herokuapp.com/), an automotive e-commerce platform.
+- 💼 Creator of robust systems like [Dema Automotive](https://demautomotive.vercel.app/), an automotive e-commerce platform.
 - 🌟 Constant learner and challenge enthusiast.
 
 ---
